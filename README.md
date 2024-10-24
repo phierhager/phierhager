@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">I am a dedicated Machine Learning and Quanutm Computing Software Engineer and Researcher.</h3>
+<h3 align="center">I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher.</h3>
 
-- 🔭 I’m currently working on my master's thesis in self-supervised learning, [Quantum and Classical Benchmark for Insurance Claims](https://github.com/phierhager/InsureQ), and a [Quantum Circuit Optimizer for Machine Learning](https://github.com/phierhager/InsureQ)
+- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), and a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ).
 
-- 🌱 I’m currently learning **Self-Supervised Learning, PyTorch, Python Best Practices, CI/CD**
+- 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
 
-- 💬 Ask me about **PyTorch, ONNX, Machine Learning, Computer Vision, NLP**
+- 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
 
-- ⚡ Fun fact **I love to surf**
+- ⚡ Fun fact **I love to surf**.
+
+- I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
