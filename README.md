@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Philip</h1>
+<h1 align="center">Hi, I'm Philip Hierhager</h1>
 <h3 align="center">I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher.</h3>
 
 - 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), and a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ).
