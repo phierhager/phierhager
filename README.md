@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">I am a dedicated Machine Learning and Quanutm Computing Software Engineer and Researcher.</h3>
 
-- 🔭 I’m currently working on [InsureQ](https://github.com/phierhager/InsureQ)
+- 🔭 I’m currently working on my master's thesis in self-supervised learning, [Quantum and Classical Benchmark for Insurance Claims](https://github.com/phierhager/InsureQ), and a [Quantum Circuit Optimizer for Machine Learning](https://github.com/phierhager/InsureQ)
 
 - 🌱 I’m currently learning **Self-Supervised Learning, PyTorch, Python Best Practices, CI/CD**
 
