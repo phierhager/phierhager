@@ -10,9 +10,9 @@
 - ⚡ Fun fact **I love to surf**.
 
 <div id="header" align="center">
-  🌊
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx6bWgzcWliYXBvYmk1dmtnM2tsdjV2NDU2anhrZzFiNmwxN25xeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
 <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=phierhager&style=flat-square&color=blue" alt=""/>
   
   <a href="https://www.linkedin.com/in/philip-hierhager/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
