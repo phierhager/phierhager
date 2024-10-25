@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher from Germany.
 
 
 - 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), and a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ).
@@ -32,7 +32,9 @@ I am a dedicated Machine Learning and Quantum Computing Software Engineer and Re
 
 - 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
 
-- ⚡ Fun fact **I love to surf**.
+- :zap: In my free time, I love surf.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philip-hierhager/)
 
 
 </div>
