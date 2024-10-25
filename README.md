@@ -36,7 +36,7 @@ I am a dedicated Machine Learning and Quantum Computing Software Engineer and Re
 
 - :zap: In my free time, I love surf.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philip-hierhager/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-hierhager/)
 
 ---
 
