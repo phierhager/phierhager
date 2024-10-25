@@ -1,14 +1,6 @@
 <h1 align="center">Hi! I am Philip </h1>
 <h3 align="center">I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher.</h3>
 
-- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), and a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ).
-
-- 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
-
-- 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
-
-- ⚡ Fun fact **I love to surf**.
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx6bWgzcWliYXBvYmk1dmtnM2tsdjV2NDU2anhrZzFiNmwxN25xeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width="100"/>
 <div id="badges">  
@@ -22,6 +14,27 @@
   Hi! I am Philip
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+
+
+- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), and a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ).
+
+- 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
+
+- 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
+
+- ⚡ Fun fact **I love to surf**.
+
+
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
