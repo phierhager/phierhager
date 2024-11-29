@@ -27,9 +27,11 @@
 I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher from Germany.
 
 
-- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), and a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ).
+- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ), and [dive into different machine learning topics](https://github.com/phierhager/ml-exploration/tree/main)
 
 - 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
+
+- 🚀 In the past months, I conducted research on [molecule modelling using graph neural networks](https://github.com/phierhager/pesnet-paper) and [non-convex consensus-based optimization](https://github.com/phierhager/cbo-exponential-noise). I wrote a [experimental framework for consensus-based optimization](https://github.com/phierhager/cbx-experiments) and 
 
 - 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
 
