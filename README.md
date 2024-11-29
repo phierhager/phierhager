@@ -31,7 +31,7 @@ I am a dedicated Machine Learning and Quantum Computing Software Engineer and Re
 
 - 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
 
-- 🚀 In the past months, I conducted research on [molecule modelling using graph neural networks](https://github.com/phierhager/pesnet-paper) and [non-convex consensus-based optimization](https://github.com/phierhager/cbo-exponential-noise). I wrote a [experimental framework for consensus-based optimization](https://github.com/phierhager/cbx-experiments) and 
+- 🚀 In the past months, I conducted research on [molecule modelling using graph neural networks](https://github.com/phierhager/pesnet-paper) and [non-convex consensus-based optimization](https://github.com/phierhager/cbo-exponential-noise), and wrote a [experimental framework for consensus-based optimization](https://github.com/phierhager/cbx-experiments).
 
 - 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
 
