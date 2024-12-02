@@ -27,7 +27,7 @@
 I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher from Germany.
 
 
-- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ), and [dive into different machine learning topics](https://github.com/phierhager/ml-exploration/tree/main)
+- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ), [exploring machine learning topics](https://github.com/phierhager/ml-exploration/tree/main) and a framework to [detect malicious network packets](https://github.com/phierhager/network-anomaly).
 
 - 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
 
