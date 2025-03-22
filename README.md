@@ -2,7 +2,7 @@
   Hi! I am Philip
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">I am a dedicated Machine Learning and Quantum Computing Software Engineer and Researcher.</h3>
+<h3 align="center">I am a dedicated Machine Learning and Quantum Computing Research Engineer. </h3>
 
 
 <div align="center">
