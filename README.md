@@ -1,41 +1,41 @@
 <h1 align="center">
-  Hi! I am Philip
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Philip Hierhager
 </h1>
-<h3 align="center">I am a dedicated Machine Learning and Quantum Computing Research Engineer. </h3>
-
+<h3 align="center">Machine Learning Researcher</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id="header" align="center">
-<div id="badges">  
+<div align="center">
   <a href="https://www.linkedin.com/in/philip-hierhager/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=phierhager&style=flat-square&color=blue" alt=""/>
-
+  <img src="https://komarev.com/ghpvc/?username=phierhager&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
+### About Me
 
-I am a dedicated Machine Learning Researcher from Germany.
+I am a researcher specializing in **geometric deep learning**, **deep reinforcement learning** and **self-supervised learning** based in Germany.  
 
+- 🔭 Currently working on:
+  - [High-performance home energy simulation in JAX with differentiable MPC, continuous-time neural RL, and system identification.](https://github.com/phierhager/EnergySim)
+  - **Action-adaptive continual learning for Reinforcement Learning Agents**
+  - **Master’s thesis in self-supervised learning**
+  
+- 🌱 Learning: **Geometric Deep Learning, Deep Reinforcment Learning, JAX, Neural ODEs, Chaos**
 
-- 🔭 I’m currently working on my **master's thesis in self-supervised learning**, [a quantum and classical benchmark for insurance claims](https://github.com/phierhager/InsureQ), a [quantum circuit optimizer for machine learning](https://github.com/phierhager/InsureQ), [exploring machine learning topics](https://github.com/phierhager/ml-exploration/tree/main) and a framework to [detect malicious network packets](https://github.com/phierhager/network-anomaly).
+- 🚀 Recent research:
+  - [Self-Supervised Learning for Efficient 3D Object Detection in Autonomous Driving](https://phierhager.github.io/self-supervision-thesis/thesis.pdf)
+  - [Molecule modeling with graph neural networks](https://github.com/phierhager/pesnet-paper)
+  - [Non-convex consensus-based optimization](https://github.com/phierhager/cbo-exponential-noise)
+  - [Experimental framework for consensus-based optimization](https://github.com/phierhager/cbx-experiments)
 
-- 🌱 I’m currently learning **self-supervised learning, PyTorch, Python best practices, and CI/CD**.
+- 💬 Areas of expertise: Self-Supervised Learning, PyTorch, ONNX, machine learning, computer vision, NLP  
 
-- 🚀 In the past months, I conducted research on [molecule modelling using graph neural networks](https://github.com/phierhager/pesnet-paper) and [non-convex consensus-based optimization](https://github.com/phierhager/cbo-exponential-noise), and wrote a [experimental framework for consensus-based optimization](https://github.com/phierhager/cbx-experiments).
-
-- 💬 Ask me about **PyTorch, ONNX, machine learning, computer vision, and NLP**.
-
-- :zap: In my free time, I love to do exercise, run, and surf.
+- ⚡ Interests: Exercise, running, surfing
 
 ---
 
