@@ -93,4 +93,16 @@
     <td>Experimental framework and methods for non-convex consensus optimization.</td>
     <td><a href="https://github.com/phierhager/cbo-exponential-noise">GitHub</a></td>
   </tr>
+  
+  <tr>
+    <td>Robust Quantum Variational Algorithms</td>
+    <td>Influence of Noise on Quantum Variational Algorithms.</td>
+    <td><a href="https://phierhager.github.io/Influence-of-Noise-on-Quantum-Variational-Algorithms/influence_of_noise.pdf">PDF</a></td>
+  </tr>
+  
+  <tr>
+    <td>Quantum-Classical MILP Optimization</td>
+    <td>Evaluation of quantum-classical hybrid solution methods for 3SAT problems. (German)</td>
+    <td><a href="https://phierhager.github.io/Evaluation-of-Quantum-Classical-Hybrid-Solution-Methods-for-3SAT-Problems/hybrid_quantum_classical.pdf">PDF</a></td>
+  </tr>
 </table>
